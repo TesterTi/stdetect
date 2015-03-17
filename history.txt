@@ -1,0 +1,9 @@
+v1.04 - Minor documentation update (no code updated)
+v1.03 - Updated references in documentation (no code updated)
+v1.02 - Updated default snake parameters (corrects example detections)
+	Updated documentation
+	Introduced low-level detection functions
+v1.01 - Updated load_spectrogram.m to allow underscores to be used in the data path
+	Updated extract_fundamental.m to make it more robust
+	Updated analyse_spectrogram.m to turn off the gui if matlab is started with -nodisplay option
+v1.0  - Original release
