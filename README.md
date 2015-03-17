@@ -1,3 +1,5 @@
+# A spectrogram track detection toolbox for Matlab
+
 STDetect is an implementation of a Spectrogram Track Detection algorithm which was developed at the [University of York](http://www.cs.york.ac.uk/) by [Dr. Thomas Lampert](https://sites.google.com/site/tomalampert/) and [Dr. Simon O'Keefe](http://www-users.cs.york.ac.uk/~sok/). The aim of releasing this software is to make the algorithm available to the research community to verify published results, use as a comparison method, and, hopefully, to progress the research field.
 
 The algorithm is based upon the active contour algorithm and uses machine learning techniques to calculate filters from the data, these form the basis of the active contour's external energy function.
