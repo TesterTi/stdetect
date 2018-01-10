@@ -9,3 +9,4 @@ Additional low-level feature detection methods, that were developed during the r
 Several Matlab scripts are included that will recreate the results presented in the [thesis](http://etheses.whiterose.ac.uk/956/) and [Research Papers](https://sites.google.com/site/tomalampert/publications). The data used for this is publicly available and details for obtaining the dataset are available [here](https://sites.google.com/site/tomalampert/data-sets) or [here](http://code.google.com/p/stdetect/wiki/DataSets).
 
 For additional information please refer to 'User Guide.pdf' included in the project and its [wiki](https://github.com/TesterTi/stdetect/wiki).
+[![Analytics](https://ga-beacon.appspot.com/UA-112264682-4/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
